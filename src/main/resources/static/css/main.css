@@ -1,0 +1,18 @@
+.products__list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.product {
+}
+
+.product__price {
+    display: block;
+}
+
+.product__add-to-cart {
+    display: block;
+    padding: 1rem;
+    font-weight: bolder;
+}
